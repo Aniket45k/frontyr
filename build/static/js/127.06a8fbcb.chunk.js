@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkproject_buddy=self.webpackChunkproject_buddy||[]).push([[127],{1127:function(e,u,c){c.r(u)}}]);

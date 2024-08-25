@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.91e89c90.css",
+    "main.js": "/static/js/main.418d41cc.js",
+    "static/js/879.6f4e43c5.chunk.js": "/static/js/879.6f4e43c5.chunk.js",
+    "static/js/127.06a8fbcb.chunk.js": "/static/js/127.06a8fbcb.chunk.js",
+    "static/js/161.25bae419.chunk.js": "/static/js/161.25bae419.chunk.js",
+    "static/js/239.fbc8e393.chunk.js": "/static/js/239.fbc8e393.chunk.js",
+    "static/media/profile_banner.jpeg": "/static/media/profile_banner.f5f840db432871f13f46.jpeg",
+    "static/media/profile_pic.jpeg": "/static/media/profile_pic.56a065956aada63d30bf.jpeg",
+    "static/media/project_buddy_logo.png": "/static/media/project_buddy_logo.7d32ca3e063e111bc78d.png",
+    "index.html": "/index.html",
+    "main.91e89c90.css.map": "/static/css/main.91e89c90.css.map",
+    "main.418d41cc.js.map": "/static/js/main.418d41cc.js.map",
+    "879.6f4e43c5.chunk.js.map": "/static/js/879.6f4e43c5.chunk.js.map",
+    "161.25bae419.chunk.js.map": "/static/js/161.25bae419.chunk.js.map",
+    "239.fbc8e393.chunk.js.map": "/static/js/239.fbc8e393.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91e89c90.css",
+    "static/js/main.418d41cc.js"
+  ]
+}
